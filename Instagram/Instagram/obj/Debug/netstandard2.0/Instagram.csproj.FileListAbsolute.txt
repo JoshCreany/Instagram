@@ -1,0 +1,7 @@
+C:\Users\joshc\Google Drive\CU Boulder\Computer Science\VisualStudio\Instagram\Instagram\Instagram\bin\Debug\netstandard2.0\Instagram.deps.json
+C:\Users\joshc\Google Drive\CU Boulder\Computer Science\VisualStudio\Instagram\Instagram\Instagram\bin\Debug\netstandard2.0\Instagram.dll
+C:\Users\joshc\Google Drive\CU Boulder\Computer Science\VisualStudio\Instagram\Instagram\Instagram\obj\Debug\netstandard2.0\Instagram.csprojAssemblyReference.cache
+C:\Users\joshc\Google Drive\CU Boulder\Computer Science\VisualStudio\Instagram\Instagram\Instagram\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joshc\Google Drive\CU Boulder\Computer Science\VisualStudio\Instagram\Instagram\Instagram\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\joshc\Google Drive\CU Boulder\Computer Science\VisualStudio\Instagram\Instagram\Instagram\obj\Debug\netstandard2.0\Instagram.AssemblyInfoInputs.cache
+C:\Users\joshc\Google Drive\CU Boulder\Computer Science\VisualStudio\Instagram\Instagram\Instagram\obj\Debug\netstandard2.0\Instagram.AssemblyInfo.cs
